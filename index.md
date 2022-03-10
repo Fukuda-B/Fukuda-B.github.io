@@ -1,5 +1,4 @@
 <h1 id="hello-b-">Hello B.</h1>
-<h3 id="tools">Tools</h3>
 
 <table>
 <thead>
