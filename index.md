@@ -16,6 +16,9 @@
 <td><a href="https://fukuda-b.github.io/text_counter/">text_counter</a></td>
 <td>text counter</td>
 </tr>
+<tr>
+<td><a href="https://fukuda-b.github.io/gol/">gol</a></td>
+<td>game of life</td>
+</tr>
 </tbody>
 </table>
-
